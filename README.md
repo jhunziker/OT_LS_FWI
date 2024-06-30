@@ -11,7 +11,7 @@ Journal of Applied Geophysics, in submitted.
 Source: https://github.com/jhunziker/OT-LS-FWI
 
 This package uses the optimal-transport algorithm of Malcolm Sambridge
-(Australian National University)
+(Australian National University).
 Paper:
 M. Sambridge, A. Jackson, and A. P. Valentine (2022), Geophysical inversion and optimal
 transport, Geophysical Journal International, 231(1), 172–198.

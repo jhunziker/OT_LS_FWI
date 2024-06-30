@@ -8,7 +8,7 @@ This packages contains the source code of the OT-LS_FWI algorithm  to invert cro
 J. Hunziker, G. Meles, and N. Linde (2024), Crosshole ground-penetrating radar
 full-waveform inversion by combining optimal-transport and least-squares distances,
 Journal of Applied Geophysics, in submitted.
-Source: https://github.com/jhunziker/OT-LS-FWI
+Source: https://github.com/jhunziker/OT_LS_FWI
 
 This package uses the optimal-transport algorithm of Malcolm Sambridge
 (Australian National University).
